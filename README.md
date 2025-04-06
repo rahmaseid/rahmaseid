@@ -1,7 +1,7 @@
 ## Hi, I'm Rahma ✨
 
 🧠 Computer Science student at MTSU<br>
-🍇 Latest hackathon project was a food accessibility app built in React Native<br>
+🍇 Latest hackathon project: food accessibility app built using React Native & TypScript<br>
 🏦 Currently working on a DBMS project, developing a personal banking app and learning PHP for its backend<br>
 
 ## 🌐 Socials:
