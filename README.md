@@ -3,7 +3,6 @@
 🧠 Computer Science student at MTSU<br>
 🍇 Latest hackathon project was a food accessibility app built in React Native<br>
 🏦 Currently working on a DBMS project, developing a personal banking app and learning PHP for its backend<br>
-  Reach out to me on LinkedIn: 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahma-seid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seidrahma6@gmail.com) 
