@@ -1,11 +1,8 @@
 ## Hi, I'm Rahma ✨
 
-# 💫 About Me:
-I'm currently working on a group project in DBMS in developing a personal banking app and I'm currently learning PHP for its backend.
-
-- 🌱 Computer Science student at MTSU
-- 🔭 Latest hackathon project was a food accessibility app built in React Native
-- 👯 Currently working on a DBMS project, developing a personal banking app and learning PHP for its backend
+🧠 Computer Science student at MTSU
+🍇 Latest hackathon project was a food accessibility app built in React Native
+🏦 Currently working on a DBMS project, developing a personal banking app and learning PHP for its backend
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahma-seid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seidrahma6@gmail.com) 
@@ -17,8 +14,6 @@ I'm currently working on a group project in DBMS in developing a personal bankin
 ![](https://nirzak-streak-stats.vercel.app/?user=rahmaseid&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaseid&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahmaseid&icon=6&color=1)](https://visitcount.itsvg.in)
