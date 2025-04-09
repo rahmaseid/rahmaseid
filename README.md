@@ -3,9 +3,11 @@
 ## 👩🏾‍💻 About Me
 I'm currently a fourth-year computer science student at Middle Tennessee State University (MTSU) and I strive to work in web development, which has led me to my passion for software engineering<br>
 
+
 ## 🥏 What I'm Up To
 - 🏦 Working on a DBMS group project, developing a personal banking app and learning PHP for its backend<br>
-- 🍇 Adding more features to food accessibility app, Food4U, built using React Native & TypScript<br>
+- 🍇 Adding more features to food accessibility app, Food4U, built using React Native & TypScript<be>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahma-seid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seidrahma6@gmail.com) 
