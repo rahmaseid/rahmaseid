@@ -1,11 +1,11 @@
 <h1 align="center"> Hi, I'm Rahma Seid✨ </h1>
 
 ## 👩🏾‍💻 About Me
-I'm currently a fourth-year computer science student at Middle Tennessee State University (MTSU) and I strive to work in web development, which has led me to my passion for software engineering<br>
+I'm currently a fourth-year computer science student at Middle Tennessee State University (MTSU) and I strive to work in web development, which has led me to my passion for software engineering.<br>
 
 
 ## 🥏 What I'm Up To
-- 🏦 Working on a DBMS group project, developing a personal banking app and learning PHP for its backend<br>
+- 🏦 Learning PHP for the backend of a personal banking app project in DBMS<br>
 - 🍇 Adding more features to food accessibility app, Food4U, built using React Native & TypScript<be>
 
 
