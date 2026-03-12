@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Rahma Seid✨ </h1>
 
 ## 👩🏾‍💻 About Me
-I'm currently a fourth-year computer science student at Middle Tennessee State University (MTSU) and I strive to work in web development, which has led me to my passion for software engineering.<br>
+I'm currently a fifth-year computer science student at Middle Tennessee State University (MTSU) and I strive to work in web development, which has led me to my passion for software engineering.<br>
 
 
 ## 🥏 What I'm Up To
